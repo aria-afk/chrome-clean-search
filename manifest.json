@@ -1,0 +1,12 @@
+{
+    "name": "Chrome Clean Search",
+    "description": "Removes clutter from google search. Lets return to a better search expierence.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [
+        "tabs"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    }
+}

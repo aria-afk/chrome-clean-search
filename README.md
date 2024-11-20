@@ -10,15 +10,19 @@ This project was inspired by [udm14.com](https://www.udm14.com)
 
 Its under review for the chrome store so for now you can load it as an unpacked extension:
 
-- 1) Clone this repo
+**1) Clone this repo**
+
 `git clone https://github.com/aria-afk/chrome-clean-search.git`
 
-- 2) Open chrome and navigate to the extensions tab
+**2) Open chrome and navigate to the extensions tab**
+
 `chrome://extensions/`
 
-- 3) If not already enabled in the top right toggle "Developer mode" on
+**3) If not already enabled in the top right toggle "Developer mode" on**
 
-- 4) On the top left click "Load unpacked" and select the path to this repo.
+**4) On the top left click "Load unpacked" and select the path to this repo.**
+
+Then enjoy~
 
 ## Features I want to/will add
 

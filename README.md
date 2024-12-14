@@ -24,6 +24,9 @@ Its under review for the chrome store so for now you can load it as an unpacked 
 
 Then enjoy~
 
+## TODO:
+- Ability to navigate post udm14 search to any type (navigating off a web section will just re-route back to web right now.)
+
 ## Features I want to/will add
 
 - Ability to toggle on/off through a UI instead of through the extension manager.
